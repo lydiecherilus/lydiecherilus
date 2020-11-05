@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**lydiecherilus/lydiecherilus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 
 
 Here are some ideas to get you started:
 
@@ -12,4 +9,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Python
 - 📫 How to reach me: ...LinkedIn (https://www.linkedin.com/in/lydiecherilus/)
 - ⚡ Fun fact: ...I'm a great dancer!
--->
