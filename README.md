@@ -1,6 +1,4 @@
-### Hi there 
-
-Here are some ideas to get you started:
+### Bonjour
 
 - 🔭 I’m currently working on ...Express Groomer website
 - 🌱 I’m currently learning ...Ant Design
